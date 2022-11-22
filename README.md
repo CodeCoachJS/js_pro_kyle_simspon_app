@@ -25,7 +25,7 @@ npm start
 
 Check out an approach to digging into a new codebase:
 
-App walkthrough [video](https://www.loom.com/share/fd3d166c03a543b58bb0179a3010ae46)
+App walkthrough [video](https://www.loom.com/share/e85121b4324c459889ecfaa79ddab890)
 
 ---
 
